@@ -1,0 +1,16 @@
+{
+    "name": "iteekung/laravel-helper-config",
+    "description": "configuration setting",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "suraphol",
+            "email": "iteekung@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Iteekung\\laravel-helper-config": "src/"
+        }
+    }
+}
